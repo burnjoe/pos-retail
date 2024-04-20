@@ -1,0 +1,28 @@
+
+
+SALES TAB = DAPAT PWEDE MASPECIFY YUNG DATE FROM START TO END, DAILY, WEEKLY, MONTHLY, YEARLY
+
+
+SHOW BEFORE UNLOADING
+
+LOGIN FORMS
+HEIGHT = 6510
+WIDTH = 12360
+
+
+KEYASCII - ESC = 27
+
+COLORS 
+Dark Green - 160 38 28 44 71 62
+Green - 94 45 55 106 142 78
+Light Green - 85 38 80 176 209 130
+White - 42 4 95 244 241 234
+Dark red - &H008080FF&
+light red - &H00C0C0FF&
+dark green - &H0082D1B0&
+light green - &H00DBF2E9&
+
+Format(dtBday1, "m/dd/yyyy")
+Format(dtBday1, "mmmm dd, yyyy")
+
+
